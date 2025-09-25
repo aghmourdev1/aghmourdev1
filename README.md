@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub Profile
 
 ## 🧑‍💻 About Me
-Software developer specializing in **Android applications** using **Java** and **Android Studio**, with experience in designing user interfaces following **Material Design** and integrating apps with databases.  
+Software developer specializing in **Android applications** using **Java**, **Kotlin** and **Android Studio**, with experience in designing user interfaces following **Material Design** and integrating apps with databases.  
 Experienced in **web development** using **PHP, JavaScript, SQL, HTML, CSS, Bootstrap**, as well as **desktop applications** using **C#** and **Visual Studio**.  
 Capable of creating **Chrome Extensions**, with strong **problem-solving** skills and experience working in modern development environments like **Visual Studio** and **VS Code**.
 
